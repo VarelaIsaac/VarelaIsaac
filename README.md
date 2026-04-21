@@ -3,7 +3,7 @@
 **Software Engineering Student** · Ensenada, Baja California, México  
 Passionate about building functional, user-friendly applications — currently diving deep into **Data Science & Machine Learning**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-varela-643389276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaac-reyes-varela-643389276)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VarelaIsaac)
 
 ---
