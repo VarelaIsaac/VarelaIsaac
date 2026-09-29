@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Varela 👋
 
-**AI Software Engineering** · Ensenada, Baja California, México  
+**AI Software Engineer** · Ensenada, Baja California, México  
 Passionate about building functional, user-friendly applications — currently diving deep into **Data Science & Machine Learning**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaac-reyes-varela-643389276)
@@ -54,6 +54,3 @@ Passionate about building functional, user-friendly applications — currently d
 ![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarelaIsaac&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarelaIsaac&layout=compact&theme=default&hide_border=true)
 
----
-
-*Open to internships, collaborations, and entry-level opportunities in software development and data science.*
